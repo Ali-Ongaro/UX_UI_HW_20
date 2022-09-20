@@ -1,0 +1,61 @@
+/*
+.jumbotron {
+    background-color: #F4E3B7;
+
+} 
+*/
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-size: cover;
+
+} 
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.card {
+    background-color: #F4E3B7;
+}
+
+.btn-primary {
+    background-color: #D95002; 
+    border: #D95002;
+    
+}
+
+.btn-primary:hover {
+    background-color: #A3c585
+}
+.card-title {
+    color: #51361a
+}
+
+.card-text {
+    color: #51361a
+}
+
+
+.navbar-custom {
+	background-color: #F4E3B7;
+}
+
+.nav-link {
+    color: #51361a
+}
+
+.nav-link:hover {
+    color: #A3c585
+}
+
+.container {
+    color: #F4E3B7;
+    font-size: large;
+}
